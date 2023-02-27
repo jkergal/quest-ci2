@@ -33,4 +33,4 @@ jobs:
         with:
           push: true
           context: "{{defaultContext}}:client"
-          tags: username/quete1902:latest
+          tags: jkergal/quete1902:latest
